@@ -1,0 +1,19 @@
+div{
+  border: 1px black solid;
+}
+
+.card{
+  box-sizing: border-box;
+  width: 24%;
+  color: aliceblue;
+  text-align: center;
+
+}
+
+#loginregister .col{
+  display: none;
+}
+
+#outBtn{
+  display: none;
+}

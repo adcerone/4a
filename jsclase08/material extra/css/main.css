@@ -1,0 +1,31 @@
+.body{
+    padding: 0;
+    margin: 0;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+
+.header{
+    box-sizing: border-box;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    background-color: blue;
+
+}
+.header div img{
+    
+}
+
+.main{
+    width: 100%;
+}
+
+.footer{
+    width: 100%;
+}
+
+
+

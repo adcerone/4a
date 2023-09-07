@@ -1,0 +1,15 @@
+
+
+""0", "Vela Orquídea de Medianoche", "La Vela Orquídea de Medianoche está elaborada a mano con cera de soja de primera calidad e infusionada con una cautivadora mezcla de pétalos de orquídea, jazmín y vainilla. Su fragancia embriagadora crea un ambiente relajante, perfecto para las tardes de descanso. La vela viene en un elegante envase de vidrio y tiene una duración de aproximadamente 40 horas", "$25", "../material extra/Midnight Orchid Candle.png"
+
+
+"1", "Spray de Ambiente Serenata Dichosa", "Deleita tus sentidos con el Spray de Ambiente Serenata Dichosa. Infundido con notas de lavanda, manzanilla y almizcle suave, esta bruma aromática refresca al instante cualquier habitación, promoviendo la relajación y la serenidad. El spray viene en una elegante botella de vidrio morado y contiene 100 ml de producto.", "$18", "../material extra/Blissful Serenade Room Spray.png"
+
+
+"2", "Difusor de Varillas Bosque Encantado", Transforma tu espacio vital en un Bosque Encantado con este difusor de varillas. El cautivador aroma de cedro, pino fresco y bergamota llena el aire, creando una atmósfera tranquila y mística. El difusor incluye varillas de ratán naturales y una botella de vidrio decorativa que dura hasta tres meses., "$35", "../material extra/Enchanted Forest Reed Diffuser.png"
+
+
+"3", "Derretibles de Cera Citrus", "Llena tu hogar con la refrescante fragancia de los Derretibles de Cera Citrus. Elaborados a partir de una mezcla de aceites esenciales puros y cera de soja natural, estos derretibles liberan un estallido de cítricos, incluyendo limón, naranja y pomelo. Cada paquete contiene seis cubos, ofreciendo horas de fragancia.", "$12", "../material extra/Citrus Zest Wax Melts.png"
+
+
+"4", "Candelabro Sueños Celestiales", "Añade un toque de belleza celestial a tu espacio con el Candelabro Sueños Celestiales. Elaborado con metal plateado de alta calidad, presenta intrincados recortes de estrellas y lunas que proyectan patrones fascinantes cuando se enciende una vela en su interior. Este versátil candelabro puede alojar tanto velas pequeñas como de té.", "$30", "../material extra/Celestial Dreams Candle Holder.png"
